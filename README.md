@@ -1,2 +1,2 @@
 # Interpretable-Machine-Learning-Research
-Presentations, Papers, implementations on Interpretable Machine Learning
+Presentations, papers, and implementations on Interpretable Machine Learning
