@@ -3,10 +3,10 @@
 ## Current Research Topics Include: 
 ### Unsupervised Learning:
 - **Interpretability on DBSCAN Unsupervised Learning Algorithm**:
-- (1) What is DBSCAN and how does it compare to k-means clustering
-- (2) On Hold
+- (1) Introduction to DBSCAN: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/IntroToDBSCAN.pdf 
+- (2) How to Interpret DBSCAN: On Hold
 - **Interpretability on HDBSCAN Unsupervised Learning Algorithm**:
-- (1) On Hold
+- (1) Introduction to HDBSCAN: On Hold
 ### Supervised Learning:
 - **Coming Soon**
 
