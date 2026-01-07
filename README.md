@@ -8,7 +8,7 @@
   - Reference Paper: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/DBSCANPaper.pdf
 - (2) How to Interpret DBSCAN:
   - Presentation: On Hold
-  - Reference Paper: 
+  - Reference Paper: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/CounterFactPaper.pdf
 - **Interpretability on HDBSCAN Unsupervised Learning Algorithm**:
 - (1) Introduction to HDBSCAN: On Hold
 ### Supervised Learning:
