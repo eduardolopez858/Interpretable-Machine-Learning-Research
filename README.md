@@ -8,7 +8,7 @@
 - **Interpretability on HDBSCAN Unsupervised Learning Algorithm**:
 - (1) On Hold
 ### Supervised Learning:
-- ** Coming Soon **
+- **Coming Soon**
 
 ## Notes:
 This repository is intended as a **research notebook** containing code, experiements, research papers, and theoretical documentation on machine learning interpretability. All work will be in the form of files attached to this repository.
