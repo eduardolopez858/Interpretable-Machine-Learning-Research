@@ -4,8 +4,8 @@
 ### Unsupervised Learning:
 - **Interpretability on DBSCAN Unsupervised Learning Algorithm**:
 - (1) Introduction to DBSCAN:
-- Presentation: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/IntroToDBSCAN.pdf
-- Reference Paper: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/DBSCANPaper.pdf
+  - Presentation: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/IntroToDBSCAN.pdf
+  - Reference Paper: https://github.com/eduardolopez858/Interpretable-Machine-Learning-Research/blob/main/DBSCANPaper.pdf
 - (2) How to Interpret DBSCAN: On Hold
 - **Interpretability on HDBSCAN Unsupervised Learning Algorithm**:
 - (1) Introduction to HDBSCAN: On Hold
